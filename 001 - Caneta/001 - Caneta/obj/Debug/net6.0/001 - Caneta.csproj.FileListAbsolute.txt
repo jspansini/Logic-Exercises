@@ -1,0 +1,15 @@
+C:\Users\Fotomovel\Desktop\poo-1\projetos-poo-I\001 - Caneta\001 - Caneta\obj\Debug\net6.0\001 - Caneta.csproj.AssemblyReference.cache
+C:\Users\Fotomovel\Desktop\poo-1\projetos-poo-I\001 - Caneta\001 - Caneta\obj\Debug\net6.0\001 - Caneta.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fotomovel\Desktop\poo-1\projetos-poo-I\001 - Caneta\001 - Caneta\obj\Debug\net6.0\001 - Caneta.AssemblyInfoInputs.cache
+C:\Users\Fotomovel\Desktop\poo-1\projetos-poo-I\001 - Caneta\001 - Caneta\obj\Debug\net6.0\001 - Caneta.AssemblyInfo.cs
+C:\Users\Fotomovel\Desktop\poo-1\projetos-poo-I\001 - Caneta\001 - Caneta\obj\Debug\net6.0\001 - Caneta.csproj.CoreCompileInputs.cache
+C:\Users\Fotomovel\Desktop\poo-1\projetos-poo-I\001 - Caneta\001 - Caneta\bin\Debug\net6.0\001 - Caneta.exe
+C:\Users\Fotomovel\Desktop\poo-1\projetos-poo-I\001 - Caneta\001 - Caneta\bin\Debug\net6.0\001 - Caneta.deps.json
+C:\Users\Fotomovel\Desktop\poo-1\projetos-poo-I\001 - Caneta\001 - Caneta\bin\Debug\net6.0\001 - Caneta.runtimeconfig.json
+C:\Users\Fotomovel\Desktop\poo-1\projetos-poo-I\001 - Caneta\001 - Caneta\bin\Debug\net6.0\001 - Caneta.dll
+C:\Users\Fotomovel\Desktop\poo-1\projetos-poo-I\001 - Caneta\001 - Caneta\bin\Debug\net6.0\001 - Caneta.pdb
+C:\Users\Fotomovel\Desktop\poo-1\projetos-poo-I\001 - Caneta\001 - Caneta\obj\Debug\net6.0\001 - Caneta.dll
+C:\Users\Fotomovel\Desktop\poo-1\projetos-poo-I\001 - Caneta\001 - Caneta\obj\Debug\net6.0\refint\001 - Caneta.dll
+C:\Users\Fotomovel\Desktop\poo-1\projetos-poo-I\001 - Caneta\001 - Caneta\obj\Debug\net6.0\001 - Caneta.pdb
+C:\Users\Fotomovel\Desktop\poo-1\projetos-poo-I\001 - Caneta\001 - Caneta\obj\Debug\net6.0\001 - Caneta.genruntimeconfig.cache
+C:\Users\Fotomovel\Desktop\poo-1\projetos-poo-I\001 - Caneta\001 - Caneta\obj\Debug\net6.0\ref\001 - Caneta.dll
