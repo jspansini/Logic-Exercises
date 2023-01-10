@@ -1,0 +1,15 @@
+C:\Users\Fotomovel\Desktop\poo-1\projetos-poo-I\001 - Caneta\002 - Pessoa\002 - Pesoa\bin\Debug\net6.0\002 - Pesoa.exe
+C:\Users\Fotomovel\Desktop\poo-1\projetos-poo-I\001 - Caneta\002 - Pessoa\002 - Pesoa\bin\Debug\net6.0\002 - Pesoa.deps.json
+C:\Users\Fotomovel\Desktop\poo-1\projetos-poo-I\001 - Caneta\002 - Pessoa\002 - Pesoa\bin\Debug\net6.0\002 - Pesoa.runtimeconfig.json
+C:\Users\Fotomovel\Desktop\poo-1\projetos-poo-I\001 - Caneta\002 - Pessoa\002 - Pesoa\bin\Debug\net6.0\002 - Pesoa.dll
+C:\Users\Fotomovel\Desktop\poo-1\projetos-poo-I\001 - Caneta\002 - Pessoa\002 - Pesoa\bin\Debug\net6.0\002 - Pesoa.pdb
+C:\Users\Fotomovel\Desktop\poo-1\projetos-poo-I\001 - Caneta\002 - Pessoa\002 - Pesoa\obj\Debug\net6.0\002 - Pesoa.csproj.AssemblyReference.cache
+C:\Users\Fotomovel\Desktop\poo-1\projetos-poo-I\001 - Caneta\002 - Pessoa\002 - Pesoa\obj\Debug\net6.0\002 - Pesoa.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fotomovel\Desktop\poo-1\projetos-poo-I\001 - Caneta\002 - Pessoa\002 - Pesoa\obj\Debug\net6.0\002 - Pesoa.AssemblyInfoInputs.cache
+C:\Users\Fotomovel\Desktop\poo-1\projetos-poo-I\001 - Caneta\002 - Pessoa\002 - Pesoa\obj\Debug\net6.0\002 - Pesoa.AssemblyInfo.cs
+C:\Users\Fotomovel\Desktop\poo-1\projetos-poo-I\001 - Caneta\002 - Pessoa\002 - Pesoa\obj\Debug\net6.0\002 - Pesoa.csproj.CoreCompileInputs.cache
+C:\Users\Fotomovel\Desktop\poo-1\projetos-poo-I\001 - Caneta\002 - Pessoa\002 - Pesoa\obj\Debug\net6.0\002 - Pesoa.dll
+C:\Users\Fotomovel\Desktop\poo-1\projetos-poo-I\001 - Caneta\002 - Pessoa\002 - Pesoa\obj\Debug\net6.0\refint\002 - Pesoa.dll
+C:\Users\Fotomovel\Desktop\poo-1\projetos-poo-I\001 - Caneta\002 - Pessoa\002 - Pesoa\obj\Debug\net6.0\002 - Pesoa.pdb
+C:\Users\Fotomovel\Desktop\poo-1\projetos-poo-I\001 - Caneta\002 - Pessoa\002 - Pesoa\obj\Debug\net6.0\002 - Pesoa.genruntimeconfig.cache
+C:\Users\Fotomovel\Desktop\poo-1\projetos-poo-I\001 - Caneta\002 - Pessoa\002 - Pesoa\obj\Debug\net6.0\ref\002 - Pesoa.dll
