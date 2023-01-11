@@ -4,11 +4,10 @@ Pessoa primeiraPessoa = new Pessoa("Jessica", 32);
 primeiraPessoa.Cumprimentar();
 primeiraPessoa.DizerIdade();
 
-
 Console.WriteLine("\n");
 Console.WriteLine("----------------------------\n");
 
-Aluno aluno = new Aluno("Erika", 16);
+Aluno aluno = new Aluno("Erika", 21);
 aluno.Cumprimentar();
 aluno.DizerIdade();
 aluno.IrParaEscola();
