@@ -1,0 +1,15 @@
+C:\Users\Fotomovel\Desktop\poo-1\projetos-poo-I\004- EscolaPoo\EscolaPoo\bin\Debug\net6.0\EscolaPoo.exe
+C:\Users\Fotomovel\Desktop\poo-1\projetos-poo-I\004- EscolaPoo\EscolaPoo\bin\Debug\net6.0\EscolaPoo.deps.json
+C:\Users\Fotomovel\Desktop\poo-1\projetos-poo-I\004- EscolaPoo\EscolaPoo\bin\Debug\net6.0\EscolaPoo.runtimeconfig.json
+C:\Users\Fotomovel\Desktop\poo-1\projetos-poo-I\004- EscolaPoo\EscolaPoo\bin\Debug\net6.0\EscolaPoo.dll
+C:\Users\Fotomovel\Desktop\poo-1\projetos-poo-I\004- EscolaPoo\EscolaPoo\bin\Debug\net6.0\EscolaPoo.pdb
+C:\Users\Fotomovel\Desktop\poo-1\projetos-poo-I\004- EscolaPoo\EscolaPoo\obj\Debug\net6.0\EscolaPoo.csproj.AssemblyReference.cache
+C:\Users\Fotomovel\Desktop\poo-1\projetos-poo-I\004- EscolaPoo\EscolaPoo\obj\Debug\net6.0\EscolaPoo.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fotomovel\Desktop\poo-1\projetos-poo-I\004- EscolaPoo\EscolaPoo\obj\Debug\net6.0\EscolaPoo.AssemblyInfoInputs.cache
+C:\Users\Fotomovel\Desktop\poo-1\projetos-poo-I\004- EscolaPoo\EscolaPoo\obj\Debug\net6.0\EscolaPoo.AssemblyInfo.cs
+C:\Users\Fotomovel\Desktop\poo-1\projetos-poo-I\004- EscolaPoo\EscolaPoo\obj\Debug\net6.0\EscolaPoo.csproj.CoreCompileInputs.cache
+C:\Users\Fotomovel\Desktop\poo-1\projetos-poo-I\004- EscolaPoo\EscolaPoo\obj\Debug\net6.0\EscolaPoo.dll
+C:\Users\Fotomovel\Desktop\poo-1\projetos-poo-I\004- EscolaPoo\EscolaPoo\obj\Debug\net6.0\refint\EscolaPoo.dll
+C:\Users\Fotomovel\Desktop\poo-1\projetos-poo-I\004- EscolaPoo\EscolaPoo\obj\Debug\net6.0\EscolaPoo.pdb
+C:\Users\Fotomovel\Desktop\poo-1\projetos-poo-I\004- EscolaPoo\EscolaPoo\obj\Debug\net6.0\EscolaPoo.genruntimeconfig.cache
+C:\Users\Fotomovel\Desktop\poo-1\projetos-poo-I\004- EscolaPoo\EscolaPoo\obj\Debug\net6.0\ref\EscolaPoo.dll
