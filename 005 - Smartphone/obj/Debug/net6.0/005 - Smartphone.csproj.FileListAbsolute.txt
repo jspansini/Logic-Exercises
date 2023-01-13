@@ -1,0 +1,15 @@
+C:\Users\Fotomovel\Desktop\poo-1\projetos-poo-I\005 - Smartphone\bin\Debug\net6.0\005 - Smartphone.exe
+C:\Users\Fotomovel\Desktop\poo-1\projetos-poo-I\005 - Smartphone\bin\Debug\net6.0\005 - Smartphone.deps.json
+C:\Users\Fotomovel\Desktop\poo-1\projetos-poo-I\005 - Smartphone\bin\Debug\net6.0\005 - Smartphone.runtimeconfig.json
+C:\Users\Fotomovel\Desktop\poo-1\projetos-poo-I\005 - Smartphone\bin\Debug\net6.0\005 - Smartphone.dll
+C:\Users\Fotomovel\Desktop\poo-1\projetos-poo-I\005 - Smartphone\bin\Debug\net6.0\005 - Smartphone.pdb
+C:\Users\Fotomovel\Desktop\poo-1\projetos-poo-I\005 - Smartphone\obj\Debug\net6.0\005 - Smartphone.csproj.AssemblyReference.cache
+C:\Users\Fotomovel\Desktop\poo-1\projetos-poo-I\005 - Smartphone\obj\Debug\net6.0\005 - Smartphone.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fotomovel\Desktop\poo-1\projetos-poo-I\005 - Smartphone\obj\Debug\net6.0\005 - Smartphone.AssemblyInfoInputs.cache
+C:\Users\Fotomovel\Desktop\poo-1\projetos-poo-I\005 - Smartphone\obj\Debug\net6.0\005 - Smartphone.AssemblyInfo.cs
+C:\Users\Fotomovel\Desktop\poo-1\projetos-poo-I\005 - Smartphone\obj\Debug\net6.0\005 - Smartphone.csproj.CoreCompileInputs.cache
+C:\Users\Fotomovel\Desktop\poo-1\projetos-poo-I\005 - Smartphone\obj\Debug\net6.0\005 - Smartphone.dll
+C:\Users\Fotomovel\Desktop\poo-1\projetos-poo-I\005 - Smartphone\obj\Debug\net6.0\refint\005 - Smartphone.dll
+C:\Users\Fotomovel\Desktop\poo-1\projetos-poo-I\005 - Smartphone\obj\Debug\net6.0\005 - Smartphone.pdb
+C:\Users\Fotomovel\Desktop\poo-1\projetos-poo-I\005 - Smartphone\obj\Debug\net6.0\005 - Smartphone.genruntimeconfig.cache
+C:\Users\Fotomovel\Desktop\poo-1\projetos-poo-I\005 - Smartphone\obj\Debug\net6.0\ref\005 - Smartphone.dll
