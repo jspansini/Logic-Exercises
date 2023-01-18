@@ -1,0 +1,15 @@
+C:\Users\Fotomovel\Desktop\poo-1\projetos-poo-I\007 - Interface\007 - Interface\bin\Debug\net6.0\007 - Interface.exe
+C:\Users\Fotomovel\Desktop\poo-1\projetos-poo-I\007 - Interface\007 - Interface\bin\Debug\net6.0\007 - Interface.deps.json
+C:\Users\Fotomovel\Desktop\poo-1\projetos-poo-I\007 - Interface\007 - Interface\bin\Debug\net6.0\007 - Interface.runtimeconfig.json
+C:\Users\Fotomovel\Desktop\poo-1\projetos-poo-I\007 - Interface\007 - Interface\bin\Debug\net6.0\007 - Interface.dll
+C:\Users\Fotomovel\Desktop\poo-1\projetos-poo-I\007 - Interface\007 - Interface\bin\Debug\net6.0\007 - Interface.pdb
+C:\Users\Fotomovel\Desktop\poo-1\projetos-poo-I\007 - Interface\007 - Interface\obj\Debug\net6.0\007 - Interface.csproj.AssemblyReference.cache
+C:\Users\Fotomovel\Desktop\poo-1\projetos-poo-I\007 - Interface\007 - Interface\obj\Debug\net6.0\007 - Interface.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Fotomovel\Desktop\poo-1\projetos-poo-I\007 - Interface\007 - Interface\obj\Debug\net6.0\007 - Interface.AssemblyInfoInputs.cache
+C:\Users\Fotomovel\Desktop\poo-1\projetos-poo-I\007 - Interface\007 - Interface\obj\Debug\net6.0\007 - Interface.AssemblyInfo.cs
+C:\Users\Fotomovel\Desktop\poo-1\projetos-poo-I\007 - Interface\007 - Interface\obj\Debug\net6.0\007 - Interface.csproj.CoreCompileInputs.cache
+C:\Users\Fotomovel\Desktop\poo-1\projetos-poo-I\007 - Interface\007 - Interface\obj\Debug\net6.0\007 - Interface.dll
+C:\Users\Fotomovel\Desktop\poo-1\projetos-poo-I\007 - Interface\007 - Interface\obj\Debug\net6.0\refint\007 - Interface.dll
+C:\Users\Fotomovel\Desktop\poo-1\projetos-poo-I\007 - Interface\007 - Interface\obj\Debug\net6.0\007 - Interface.pdb
+C:\Users\Fotomovel\Desktop\poo-1\projetos-poo-I\007 - Interface\007 - Interface\obj\Debug\net6.0\007 - Interface.genruntimeconfig.cache
+C:\Users\Fotomovel\Desktop\poo-1\projetos-poo-I\007 - Interface\007 - Interface\obj\Debug\net6.0\ref\007 - Interface.dll
